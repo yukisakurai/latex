@@ -1,0 +1,4 @@
+
+====
+EXAMPLE LATEX TEMPLATE
+====
