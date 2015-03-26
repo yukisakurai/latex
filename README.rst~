@@ -7,10 +7,6 @@ EXAMPLE LATEX TEMPLATE
 
 make
 
-* make ps file
-
-make ps
-
 * clean
 
 make clean
